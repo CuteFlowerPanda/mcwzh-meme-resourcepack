@@ -1,5 +1,5 @@
 {
-    "addServer.add": "完成",
+    "addServer.add": "彳亍",
     "addServer.enterIp": "服务器地址",
     "addServer.enterName": "服务器名称",
     "addServer.hideAddress": "隐藏地址",
@@ -4161,7 +4161,7 @@
     "stat.minecraft.interact_with_smoker": "吸烟次数",
     "stat.minecraft.interact_with_stonecutter": "与切石机互动次数",
     "stat.minecraft.join_multiplayer": "一起玩次数",
-    "stat.minecraft.jump": "跳跃次数",
+    "stat.minecraft.jump": "锤空格次数",
     "stat.minecraft.junk_fished": "吸非气次数",
     "stat.minecraft.leave_game": "耻辱退游次数",
     "stat.minecraft.load_world": "退完真香次数",
